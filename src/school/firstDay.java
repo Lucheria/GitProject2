@@ -10,6 +10,7 @@ public class firstDay {
 	}
 	public static void divide(int a, int b) {
 		System.out.println(b-a);
+		System.out.println(a-b);
 	}
 
 }
